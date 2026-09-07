@@ -2,10 +2,15 @@
 
 A public, automatically refreshed board of GitHub repositories.
 
-- Rising Repositories
-- AI / Agent Radar
-- Developer Tools Radar
+- Daily Radar (Rising / AI Agent / Developer Tools)
+- GitHub Stars Top 200
 
-The page is rebuilt once a day by GitHub Actions using the GitHub Search API, then published with GitHub Pages.
+## Automation
 
-Manual refresh: Actions → Daily Radar → Run workflow.
+- **Daily Pages rebuild** — GitHub Actions cron `0 2 * * *` UTC (10:00 Asia/Shanghai), plus `workflow_dispatch`. Writes static HTML to GitHub Pages. Does **not** commit daily data into git.
+- **Weekly snapshot** — GitHub Actions cron `0 3 * * 0` UTC (Sunday 11:00 Asia/Shanghai), plus `workflow_dispatch`. Saves structured JSON under `data/weekly/YYYY-MM-DD.json` (Sunday date, UTC) and commits only when real radar rows exist.
+
+## Manual refresh
+
+Actions → Daily Radar → Run workflow  
+Actions → Weekly Radar Snapshot → Run workflow

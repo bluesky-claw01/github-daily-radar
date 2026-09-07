@@ -1,0 +1,55 @@
+name: Weekly Radar Snapshot
+
+on:
+  schedule:
+    # Sunday 03:00 UTC = 11:00 Asia/Shanghai
+    - cron: "0 3 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build weekly snapshot JSON
+        id: snap
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          if python3 weekly_snapshot.py; then
+            echo "should_commit=true" >> "$GITHUB_OUTPUT"
+          else
+            code=$?
+            if [ "$code" -eq 2 ]; then
+              echo "No meaningful radar data; skipping commit."
+              echo "should_commit=false" >> "$GITHUB_OUTPUT"
+            else
+              exit "$code"
+            fi
+          fi
+      - name: Commit snapshot if present
+        if: steps.snap.outputs.should_commit == 'true'
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/weekly/*.json
+          if git diff --cached --quiet; then
+            echo "Snapshot file unchanged; no commit."
+            exit 0
+          fi
+          FILE=$(ls -1 data/weekly/*.json | sort | tail -n 1)
+          DATE=$(basename "$FILE" .json)
+          git commit -m "Weekly radar snapshot: ${DATE}"
+          git push
