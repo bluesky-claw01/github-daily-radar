@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-09-13T03:09:40Z",
+  "next_update": "2026-09-14T02:00:00Z",
+  "sections": {
+    "rising": {
+      "title": "Rising Repositories",
+      "query": "created:>=2026-08-30 stars:>=10 archived:false is:public",
+      "repos": [
+        {
+          "name": "lnkiai/m3e-canvas",
+          "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+          "language": "TypeScript",
+          "stars": 6337,
+          "forks": 646,
+          "updated": "2026-09-12",
+          "url": "https://github.com/lnkiai/m3e-canvas"
+        },
+        {
+          "name": "ashemag/human-atlas",
+          "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+          "language": "TypeScript",
+          "stars": 3290,
+          "forks": 799,
+          "updated": "2026-09-06",
+          "url": "https://github.com/ashemag/human-atlas"
+        },
+        {
+          "name": "anthropics/commerce-agents",
+          "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+          "language": "Python",
+          "stars": 2778,
+          "forks": 519,
+          "updated": "2026-09-11",
+          "url": "https://github.com/anthropics/commerce-agents"
+        },
+        {
+          "name": "Albert-Weasker/niubigeo",
+          "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
+          "language": "TypeScript",
+          "stars": 2380,
+          "forks": 93,
+          "updated": "2026-09-09",
+          "url": "https://github.com/Albert-Weasker/niubigeo"
+        },
+        {
+          "name": "sdli1995/dlssg_for_sm86",
+          "description": "Here is a dlssg for RTX30 Series GPU",
+          "language": "—",
+          "stars": 2208,
+          "forks": 133,
+          "updated": "2026-09-10",
+          "url": "https://github.com/sdli1995/dlssg_for_sm86"
+        },
+        {
+          "name": "Rion-Wu-tech/wechat-intelligence-hub",
+          "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+          "language": "Python",
+          "stars": 2120,
+          "forks": 2589,
+          "updated": "2026-09-11",
+          "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
+        },
+        {
+          "name": "openai/NavierStokesAndEuler",
+          "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+          "language": "Lean",
+          "stars": 1829,
+          "forks": 181,
+          "updated": "2026-09-10",
+          "url": "https://github.com/openai/NavierStokesAndEuler"
+        },
+        {
+          "name": "yang0/handraw-style",
+          "description": "手绘风格编号画廊与双语提示词 Skill",
+          "language": "HTML",
+          "stars": 1599,
+          "forks": 209,
+          "updated": "2026-09-09",
+          "url": "https://github.com/yang0/handraw-style"
+        },
+        {
+          "name": "vinzdg/codenotch",
+          "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+          "language": "Swift",
+          "stars": 1507,
+          "forks": 236,
+          "updated": "2026-09-12",
+          "url": "https://github.com/vinzdg/codenotch"
+        },
+        {
+          "name": "NVlabs/SoL-Pi",
+          "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
+          "language": "TypeScript",
+          "stars": 1479,
+          "forks": 103,
+          "updated": "2026-09-13",
+          "url": "https://github.com/NVlabs/SoL-Pi"
+        }
+      ]
+    },
+    "ai": {
+      "title": "AI / Agent Radar",
+      "query": "(mcp OR llm OR rag OR \"ai agent\" OR \"coding agent\" OR langchain) stars:>=20 pushed:>=2026-08-14 archived:false is:public",
+      "repos": [
+        {
+          "name": "slb350/open-agent-sdk-rust",
+          "description": "Rust SDK for building AI agents with local OpenAI-compatible servers (LMStudio, Ollama, llama.cpp, vLLM). Features streaming, tools, hooks, retry logic, and comprehensive examples.",
+          "language": "Rust",
+          "stars": 25,
+          "forks": 2,
+          "updated": "2026-09-13",
+          "url": "https://github.com/slb350/open-agent-sdk-rust"
+        },
+        {
+          "name": "andreasronge/ptc_runner",
+          "description": "Meta-agentic harness for programmable agent workflows. LLMs write Clojure like programs (Code Mode) that combine controlled tools, reusable preludes, and observable execution.",
+          "language": "Elixir",
+          "stars": 22,
+          "forks": 4,
+          "updated": "2026-09-13",
+          "url": "https://github.com/andreasronge/ptc_runner"
+        },
+        {
+          "name": "uw-syfi/vibesys",
+          "description": "Can AI Agents Build Bespoke Systems?",
+          "language": "Python",
+          "stars": 96,
+          "forks": 28,
+          "updated": "2026-09-13",
+          "url": "https://github.com/uw-syfi/vibesys"
+        },
+        {
+          "name": "CTRLRun/ctrlrun",
+          "description": "The execution safety layer for AI agents.",
+          "language": "Python",
+          "stars": 22,
+          "forks": 0,
+          "updated": "2026-09-13",
+          "url": "https://github.com/CTRLRun/ctrlrun"
+        },
+        {
+          "name": "hehee9/CSAT-benchmark",
+          "description": "2026 대입 수능 시험 LLM 풀이 결과 모음",
+          "language": "Python",
+          "stars": 143,
+          "forks": 6,
+          "updated": "2026-09-13",
+          "url": "https://github.com/hehee9/CSAT-benchmark"
+        },
+        {
+          "name": "hproxy-com/free-proxy-list",
+          "description": "Free proxy list, verified around the clock: HTTP, HTTPS, SOCKS4 and SOCKS5 proxies with country, anonymity, latency and uptime on every row, updated several times a day. Live list, proxy checker, keyless API and MCP server at hproxy.com.",
+          "language": "—",
+          "stars": 55,
+          "forks": 4,
+          "updated": "2026-09-13",
+          "url": "https://github.com/hproxy-com/free-proxy-list"
+        },
+        {
+          "name": "EKKOLearnAI/hermes-studio",
+          "description": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
+          "language": "TypeScript",
+          "stars": 11040,
+          "forks": 1338,
+          "updated": "2026-09-13",
+          "url": "https://github.com/EKKOLearnAI/hermes-studio"
+        },
+        {
+          "name": "Q00/ouroboros",
+          "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
+          "language": "Python",
+          "stars": 5819,
+          "forks": 594,
+          "updated": "2026-09-13",
+          "url": "https://github.com/Q00/ouroboros"
+        },
+        {
+          "name": "defilantech/LLMKube",
+          "description": "Kubernetes operator for self-hosted LLM inference across a heterogeneous GPU fleet: NVIDIA CUDA, AMD Vulkan, and Apple Silicon Metal. Runtimes: llama.cpp, vLLM, TGI, mlx-server. Multi-GPU sharding, model caching, OpenAI-compatible endpoints. Apache-2.0, run across homelab and on-prem fleets, actively developed.",
+          "language": "Go",
+          "stars": 209,
+          "forks": 33,
+          "updated": "2026-09-13",
+          "url": "https://github.com/defilantech/LLMKube"
+        },
+        {
+          "name": "Bino5150/lumina",
+          "description": "A full featured, powerful, and efficient AI Agentic Harness/Desktop Agent app designed from the ground up with local inference on consumer hardware in mind. It evolves, grows, and gets smarter as you go. And it REMEMBERS...",
+          "language": "Python",
+          "stars": 168,
+          "forks": 20,
+          "updated": "2026-09-13",
+          "url": "https://github.com/Bino5150/lumina"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Developer Tools Radar",
+      "query": "cli language:Python stars:>=30 pushed:>=2026-08-14 archived:false is:public | cli language:TypeScript stars:>=30 pushed:>=2026-08-14 archived:false is:public",
+      "repos": [
+        {
+          "name": "hyperb1iss/sibyl",
+          "description": "Collective intelligence runtime for AI agents. Knowledge graph + persistent memory.",
+          "language": "Python",
+          "stars": 59,
+          "forks": 9,
+          "updated": "2026-09-13",
+          "url": "https://github.com/hyperb1iss/sibyl"
+        },
+        {
+          "name": "letta-ai/skills",
+          "description": "A shared repository for skills. Intended to be used with Letta Code, Claude Code, Codex CLI, and other agents that support skills.",
+          "language": "Python",
+          "stars": 141,
+          "forks": 23,
+          "updated": "2026-09-13",
+          "url": "https://github.com/letta-ai/skills"
+        },
+        {
+          "name": "davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 30672,
+          "forks": 3476,
+          "updated": "2026-09-13",
+          "url": "https://github.com/davila7/claude-code-templates"
+        },
+        {
+          "name": "the911fund/skill-of-skills",
+          "description": "The autonomous discovery engine for AI coding tools. Indexes skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.",
+          "language": "Python",
+          "stars": 38,
+          "forks": 11,
+          "updated": "2026-09-13",
+          "url": "https://github.com/the911fund/skill-of-skills"
+        },
+        {
+          "name": "ThreeMoonsLab/agents-shipgate",
+          "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
+          "language": "Python",
+          "stars": 87,
+          "forks": 2,
+          "updated": "2026-09-13",
+          "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+        },
+        {
+          "name": "FonaTech/Clouds-Coder",
+          "description": "Clouds Coder is a local-first coding agent platform centered on separating the CLI execution plane from the Web user plane, with Web UI, Skills Studio, resilient streaming, and long-task recovery controls.",
+          "language": "Python",
+          "stars": 294,
+          "forks": 17,
+          "updated": "2026-09-13",
+          "url": "https://github.com/FonaTech/Clouds-Coder"
+        },
+        {
+          "name": "mk-fg/reliable-discord-client-irc-daemon",
+          "description": "Reliable Discord-client IRC-server Daemon (rdircd) - tool to use Discord via IRC client",
+          "language": "Python",
+          "stars": 96,
+          "forks": 11,
+          "updated": "2026-09-13",
+          "url": "https://github.com/mk-fg/reliable-discord-client-irc-daemon"
+        },
+        {
+          "name": "lsaint/aikito",
+          "description": "Your durable workspace across AI agents.",
+          "language": "Python",
+          "stars": 107,
+          "forks": 0,
+          "updated": "2026-09-13",
+          "url": "https://github.com/lsaint/aikito"
+        },
+        {
+          "name": "QubesOS/qubes-core-admin-client",
+          "description": "Qubes management API client",
+          "language": "Python",
+          "stars": 37,
+          "forks": 101,
+          "updated": "2026-09-13",
+          "url": "https://github.com/QubesOS/qubes-core-admin-client"
+        },
+        {
+          "name": "Dictation354/paper-fetch-skill",
+          "description": "Fetch papers as agent-ready markdown — DOI/URL/title in, structured full text out. CLI · MCP · Skill.",
+          "language": "Python",
+          "stars": 242,
+          "forks": 28,
+          "updated": "2026-09-13",
+          "url": "https://github.com/Dictation354/paper-fetch-skill"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "counts": {
+    "rising": 10,
+    "ai": 10,
+    "tools": 10
+  },
+  "snapshot_date": "2026-09-13"
+}
