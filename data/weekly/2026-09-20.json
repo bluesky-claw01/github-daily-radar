@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-09-20T03:09:42Z",
+  "next_update": "2026-09-21T02:00:00Z",
+  "sections": {
+    "rising": {
+      "title": "Rising Repositories",
+      "query": "created:>=2026-09-06 stars:>=10 archived:false is:public",
+      "repos": [
+        {
+          "name": "browser-use/jev-ultrafast",
+          "description": "i. am. speed.",
+          "language": "Python",
+          "stars": 8909,
+          "forks": 560,
+          "updated": "2026-09-18",
+          "url": "https://github.com/browser-use/jev-ultrafast"
+        },
+        {
+          "name": "eternity4719/HowToLiveBetter",
+          "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+          "language": "HTML",
+          "stars": 6054,
+          "forks": 461,
+          "updated": "2026-09-20",
+          "url": "https://github.com/eternity4719/HowToLiveBetter"
+        },
+        {
+          "name": "tamaratran/fast-jev-compaction",
+          "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+          "language": "TypeScript",
+          "stars": 4333,
+          "forks": 236,
+          "updated": "2026-09-18",
+          "url": "https://github.com/tamaratran/fast-jev-compaction"
+        },
+        {
+          "name": "sdli1995/dlssg_for_sm86",
+          "description": "Here is a dlssg for RTX30 Series GPU",
+          "language": "—",
+          "stars": 3561,
+          "forks": 208,
+          "updated": "2026-09-19",
+          "url": "https://github.com/sdli1995/dlssg_for_sm86"
+        },
+        {
+          "name": "robbietilton/Compositor",
+          "description": "The Photoshop alternative for Mac",
+          "language": "Swift",
+          "stars": 2636,
+          "forks": 283,
+          "updated": "2026-09-18",
+          "url": "https://github.com/robbietilton/Compositor"
+        },
+        {
+          "name": "Edge0-AI/Edge0",
+          "description": "",
+          "language": "Python",
+          "stars": 2008,
+          "forks": 173,
+          "updated": "2026-09-17",
+          "url": "https://github.com/Edge0-AI/Edge0"
+        },
+        {
+          "name": "TheoLeeCJ/SemIf",
+          "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+          "language": "Python",
+          "stars": 1983,
+          "forks": 123,
+          "updated": "2026-09-19",
+          "url": "https://github.com/TheoLeeCJ/SemIf"
+        },
+        {
+          "name": "openai/NavierStokesAndEuler",
+          "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+          "language": "Lean",
+          "stars": 1961,
+          "forks": 201,
+          "updated": "2026-09-10",
+          "url": "https://github.com/openai/NavierStokesAndEuler"
+        },
+        {
+          "name": "Vincentwei1021/anything2explainer",
+          "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+          "language": "TypeScript",
+          "stars": 1763,
+          "forks": 269,
+          "updated": "2026-09-18",
+          "url": "https://github.com/Vincentwei1021/anything2explainer"
+        },
+        {
+          "name": "EverettFish/holo-card-studio",
+          "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+          "language": "Python",
+          "stars": 1686,
+          "forks": 228,
+          "updated": "2026-09-12",
+          "url": "https://github.com/EverettFish/holo-card-studio"
+        }
+      ]
+    },
+    "ai": {
+      "title": "AI / Agent Radar",
+      "query": "(mcp OR llm OR rag OR \"ai agent\" OR \"coding agent\" OR langchain) stars:>=20 pushed:>=2026-08-21 archived:false is:public",
+      "repos": [
+        {
+          "name": "jztan/redmine-mcp-server",
+          "description": "MCP server connecting AI assistants to Redmine: issues, projects, wikis, time tracking, agile boards, and CRM, with OAuth2 multi-user support",
+          "language": "Python",
+          "stars": 78,
+          "forks": 33,
+          "updated": "2026-09-20",
+          "url": "https://github.com/jztan/redmine-mcp-server"
+        },
+        {
+          "name": "poe-platform/poe-code",
+          "description": "Use Poe to power your favorite coding agents (Claude Code, Codex, OpenCode, etc). No need for multiple subscriptions.",
+          "language": "TypeScript",
+          "stars": 96,
+          "forks": 15,
+          "updated": "2026-09-20",
+          "url": "https://github.com/poe-platform/poe-code"
+        },
+        {
+          "name": "vicoa-ai/vicoa",
+          "description": "Vicoa is the agentic IDE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.",
+          "language": "Python",
+          "stars": 263,
+          "forks": 24,
+          "updated": "2026-09-20",
+          "url": "https://github.com/vicoa-ai/vicoa"
+        },
+        {
+          "name": "hproxy-com/free-proxy-list",
+          "description": "Free proxy list, verified around the clock: HTTP, HTTPS, SOCKS4 and SOCKS5 proxies with country, anonymity, latency and uptime on every row, updated several times a day. Live list, proxy checker, keyless API and MCP server at hproxy.com.",
+          "language": "—",
+          "stars": 62,
+          "forks": 5,
+          "updated": "2026-09-20",
+          "url": "https://github.com/hproxy-com/free-proxy-list"
+        },
+        {
+          "name": "berylliumsec/nebula",
+          "description": "AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis.",
+          "language": "Python",
+          "stars": 1110,
+          "forks": 169,
+          "updated": "2026-09-20",
+          "url": "https://github.com/berylliumsec/nebula"
+        },
+        {
+          "name": "sleep2agi/agent-network",
+          "description": "助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / MiniMax / DeepSeek / GLM / Kimi / 书生 / 小米 MiMo），自带 Web Dashboard，Apache 2.0 开源。",
+          "language": "TypeScript",
+          "stars": 74,
+          "forks": 9,
+          "updated": "2026-09-20",
+          "url": "https://github.com/sleep2agi/agent-network"
+        },
+        {
+          "name": "Dicklesworthstone/frankenterm",
+          "description": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+          "language": "Rust",
+          "stars": 118,
+          "forks": 19,
+          "updated": "2026-09-20",
+          "url": "https://github.com/Dicklesworthstone/frankenterm"
+        },
+        {
+          "name": "openai/tunnel-client",
+          "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
+          "language": "Go",
+          "stars": 437,
+          "forks": 87,
+          "updated": "2026-09-20",
+          "url": "https://github.com/openai/tunnel-client"
+        },
+        {
+          "name": "pento/claudaborative-editing",
+          "description": "An MCP server for real-time collaborative editing of WordPress posts between Claude Code and human editors in Gutenberg.",
+          "language": "TypeScript",
+          "stars": 21,
+          "forks": 2,
+          "updated": "2026-09-20",
+          "url": "https://github.com/pento/claudaborative-editing"
+        },
+        {
+          "name": "ai-shifu/ai-shifu",
+          "description": "Get AI to teach and answer questions for you - just by typing!",
+          "language": "Python",
+          "stars": 317,
+          "forks": 125,
+          "updated": "2026-09-20",
+          "url": "https://github.com/ai-shifu/ai-shifu"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Developer Tools Radar",
+      "query": "cli language:Python stars:>=30 pushed:>=2026-08-21 archived:false is:public | cli language:TypeScript stars:>=30 pushed:>=2026-08-21 archived:false is:public",
+      "repos": [
+        {
+          "name": "the911fund/skill-of-skills",
+          "description": "The autonomous discovery engine for AI coding tools. Indexes skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.",
+          "language": "Python",
+          "stars": 38,
+          "forks": 13,
+          "updated": "2026-09-20",
+          "url": "https://github.com/the911fund/skill-of-skills"
+        },
+        {
+          "name": "Azzurroooo/rind",
+          "description": "Lightweight AI coding agent for the terminal, with one-shot automation, persistent agent teams, and a small reusable OpenAI-compatible agent kernel.",
+          "language": "Python",
+          "stars": 37,
+          "forks": 1,
+          "updated": "2026-09-20",
+          "url": "https://github.com/Azzurroooo/rind"
+        },
+        {
+          "name": "tubecreate/tubecli",
+          "description": "⚡ TubeCLI — The Ultimate Open Source AI Agents Ecosystem | Agents Browser · Agents Workflow · Agents Studio World",
+          "language": "Python",
+          "stars": 170,
+          "forks": 4,
+          "updated": "2026-09-20",
+          "url": "https://github.com/tubecreate/tubecli"
+        },
+        {
+          "name": "punitarani/fli",
+          "description": "Google Flights MCP, CLI and Python Library",
+          "language": "Python",
+          "stars": 3174,
+          "forks": 398,
+          "updated": "2026-09-20",
+          "url": "https://github.com/punitarani/fli"
+        },
+        {
+          "name": "aws-solutions-library-samples/global-capacity-orchestrator-on-aws",
+          "description": "GCO is a platform that spins up EKS Auto Mode clusters across AWS regions, wired together with Global Accelerator for low-latency routing. It handles multi-region compute orchestration — capacity-aware scheduling, spot fallback, globally distributed autoscaling inference — and offers a REST API, CLI, MCP and an integrated analytics environment",
+          "language": "Python",
+          "stars": 45,
+          "forks": 11,
+          "updated": "2026-09-20",
+          "url": "https://github.com/aws-solutions-library-samples/global-capacity-orchestrator-on-aws"
+        },
+        {
+          "name": "crow-cli/crow-cli",
+          "description": "MCP based ACP agent",
+          "language": "Python",
+          "stars": 58,
+          "forks": 6,
+          "updated": "2026-09-20",
+          "url": "https://github.com/crow-cli/crow-cli"
+        },
+        {
+          "name": "phamquiluan/awesome-cli-agents",
+          "description": "Curated list of CLI tools and plugins that help you use AI in Vim, Neovim, and the Terminal.",
+          "language": "Python",
+          "stars": 33,
+          "forks": 12,
+          "updated": "2026-09-20",
+          "url": "https://github.com/phamquiluan/awesome-cli-agents"
+        },
+        {
+          "name": "phoenixthrush/AniWorld-Downloader",
+          "description": "AniWorld Downloader is a cross-platform app for finding, streaming, and downloading anime, movies, series, and manga. It has a browser-based Web UI, an interactive terminal menu, and a direct CLI for scripts and headless setups. If you enjoy using it, feel free to leave a ⭐!",
+          "language": "Python",
+          "stars": 321,
+          "forks": 56,
+          "updated": "2026-09-20",
+          "url": "https://github.com/phoenixthrush/AniWorld-Downloader"
+        },
+        {
+          "name": "YoungCan-Wang/WyckoffTradingAgent",
+          "description": "Open-source Wyckoff trading agent and AI stock screener for volume-price analysis, A-share screening, CLI workflows, and MCP tools.灵感来自秋生trader @Hoyooyoo",
+          "language": "Python",
+          "stars": 713,
+          "forks": 207,
+          "updated": "2026-09-20",
+          "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent"
+        },
+        {
+          "name": "mkbhardwas12/pwned-deps",
+          "description": "Is your lockfile pwned? 5-second scan of npm/PyPI/Maven/Cargo/Go/RubyGems lockfiles for compromised packages — OSV + curated campaign feed, --min-age cooling-off gate, exit 4 when a scan is incomplete. SLSA L3, Sigstore-signed feed.",
+          "language": "Python",
+          "stars": 164,
+          "forks": 172,
+          "updated": "2026-09-20",
+          "url": "https://github.com/mkbhardwas12/pwned-deps"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "counts": {
+    "rising": 10,
+    "ai": 10,
+    "tools": 10
+  },
+  "snapshot_date": "2026-09-20"
+}
