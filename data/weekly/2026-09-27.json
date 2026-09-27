@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-09-27T03:09:41Z",
+  "next_update": "2026-09-28T02:00:00Z",
+  "sections": {
+    "rising": {
+      "title": "Rising Repositories",
+      "query": "created:>=2026-09-13 stars:>=10 archived:false is:public",
+      "repos": [
+        {
+          "name": "NandhaKishorM/laya",
+          "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+          "language": "Python",
+          "stars": 25926,
+          "forks": 2255,
+          "updated": "2026-09-26",
+          "url": "https://github.com/NandhaKishorM/laya"
+        },
+        {
+          "name": "browser-use/jev-ultrafast",
+          "description": "Fastest and cheapest web agent",
+          "language": "Python",
+          "stars": 20589,
+          "forks": 1417,
+          "updated": "2026-09-25",
+          "url": "https://github.com/browser-use/jev-ultrafast"
+        },
+        {
+          "name": "jaredpalmer/kev",
+          "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+          "language": "Python",
+          "stars": 7232,
+          "forks": 433,
+          "updated": "2026-09-26",
+          "url": "https://github.com/jaredpalmer/kev"
+        },
+        {
+          "name": "tamaratran/fast-jev-compaction",
+          "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+          "language": "TypeScript",
+          "stars": 6970,
+          "forks": 428,
+          "updated": "2026-09-18",
+          "url": "https://github.com/tamaratran/fast-jev-compaction"
+        },
+        {
+          "name": "zai-org/ZCode",
+          "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+          "language": "TypeScript",
+          "stars": 6842,
+          "forks": 2061,
+          "updated": "2026-09-24",
+          "url": "https://github.com/zai-org/ZCode"
+        },
+        {
+          "name": "jev-chat/jev-chat-jarvis",
+          "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+          "language": "Kotlin",
+          "stars": 6681,
+          "forks": 1154,
+          "updated": "2026-09-26",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis"
+        },
+        {
+          "name": "mizorewww/laya-mlx",
+          "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+          "language": "Python",
+          "stars": 6428,
+          "forks": 501,
+          "updated": "2026-09-22",
+          "url": "https://github.com/mizorewww/laya-mlx"
+        },
+        {
+          "name": "robbietilton/Compositor",
+          "description": "The Photoshop alternative for Mac",
+          "language": "Swift",
+          "stars": 5769,
+          "forks": 618,
+          "updated": "2026-09-27",
+          "url": "https://github.com/robbietilton/Compositor"
+        },
+        {
+          "name": "Mak5er/AirCard",
+          "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+          "language": "Swift",
+          "stars": 4401,
+          "forks": 198,
+          "updated": "2026-09-22",
+          "url": "https://github.com/Mak5er/AirCard"
+        },
+        {
+          "name": "TheoLeeCJ/SemIf-OpenJev",
+          "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+          "language": "Python",
+          "stars": 4398,
+          "forks": 307,
+          "updated": "2026-09-23",
+          "url": "https://github.com/TheoLeeCJ/SemIf-OpenJev"
+        }
+      ]
+    },
+    "ai": {
+      "title": "AI / Agent Radar",
+      "query": "(mcp OR llm OR rag OR \"ai agent\" OR \"coding agent\" OR langchain) stars:>=20 pushed:>=2026-08-28 archived:false is:public",
+      "repos": [
+        {
+          "name": "marcusquinn/aidevops",
+          "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
+          "language": "Shell",
+          "stars": 402,
+          "forks": 69,
+          "updated": "2026-09-27",
+          "url": "https://github.com/marcusquinn/aidevops"
+        },
+        {
+          "name": "floriscornel/teams-mcp",
+          "description": "MCP server providing comprehensive Microsoft Teams and Graph API access for AI assistants including messaging, search, and user management.",
+          "language": "TypeScript",
+          "stars": 139,
+          "forks": 58,
+          "updated": "2026-09-27",
+          "url": "https://github.com/floriscornel/teams-mcp"
+        },
+        {
+          "name": "hanyeol/model-compose",
+          "description": "Declarative AI pipelines in one YAML file. Tokens, audio chunks, and video frames flow between isolated components. Compose 100+ components for models, agents, speech, vision, and live broadcast. Run local models, cloud APIs, or both. Inspired by docker-compose.",
+          "language": "Python",
+          "stars": 114,
+          "forks": 16,
+          "updated": "2026-09-27",
+          "url": "https://github.com/hanyeol/model-compose"
+        },
+        {
+          "name": "tianma-if/edgeever",
+          "description": "Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.",
+          "language": "HTML",
+          "stars": 1524,
+          "forks": 866,
+          "updated": "2026-09-27",
+          "url": "https://github.com/tianma-if/edgeever"
+        },
+        {
+          "name": "Mesh-LLM/mesh-llm",
+          "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+          "language": "Rust",
+          "stars": 3459,
+          "forks": 420,
+          "updated": "2026-09-27",
+          "url": "https://github.com/Mesh-LLM/mesh-llm"
+        },
+        {
+          "name": "gumieri/nenya",
+          "description": "A lightweight, highly secure AI API Gateway/Proxy written in Go. Acts as transparent middleware between local AI coding clients (OpenCode/Pi/Cursor) and upstream LLM providers (Gemini, DeepSeek, Zhipu z.ai).",
+          "language": "Go",
+          "stars": 29,
+          "forks": 0,
+          "updated": "2026-09-27",
+          "url": "https://github.com/gumieri/nenya"
+        },
+        {
+          "name": "shd101wyy/Yo",
+          "description": "Yo (柚) - A programming language that's LLM-friendly to write and human-friendly to read",
+          "language": "Python",
+          "stars": 35,
+          "forks": 0,
+          "updated": "2026-09-27",
+          "url": "https://github.com/shd101wyy/Yo"
+        },
+        {
+          "name": "enapt/SwarmLLM",
+          "description": "Free, open-source app that runs AI chat models on your own computer — and lets computers team up over the internet to run models too big for one machine. No account, no crypto. OpenAI- and Anthropic-compatible API.",
+          "language": "Rust",
+          "stars": 53,
+          "forks": 9,
+          "updated": "2026-09-27",
+          "url": "https://github.com/enapt/SwarmLLM"
+        },
+        {
+          "name": "theguysudo/ENZO",
+          "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
+          "language": "TypeScript",
+          "stars": 106,
+          "forks": 25,
+          "updated": "2026-09-27",
+          "url": "https://github.com/theguysudo/ENZO"
+        },
+        {
+          "name": "casdoor/casdoor",
+          "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+          "language": "Go",
+          "stars": 14474,
+          "forks": 1825,
+          "updated": "2026-09-27",
+          "url": "https://github.com/casdoor/casdoor"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Developer Tools Radar",
+      "query": "cli language:Python stars:>=30 pushed:>=2026-08-28 archived:false is:public | cli language:TypeScript stars:>=30 pushed:>=2026-08-28 archived:false is:public",
+      "repos": [
+        {
+          "name": "Dicklesworthstone/ultimate_bug_scanner",
+          "description": "Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality guardrails",
+          "language": "Python",
+          "stars": 303,
+          "forks": 44,
+          "updated": "2026-09-27",
+          "url": "https://github.com/Dicklesworthstone/ultimate_bug_scanner"
+        },
+        {
+          "name": "ArchiveBox/abx-dl",
+          "description": "⬇️ A simple all-in-one CLI tool to download EVERYTHING from a URL (like youtube-dl/yt-dlp, forum-dl, gallery-dl, simpler ArchiveBox). 🎭 Uses headless Chrome to get HTML, JS, CSS, images/video/audio/subtitles, PDFs, screenshots, article text, git repos, and more...",
+          "language": "Python",
+          "stars": 144,
+          "forks": 9,
+          "updated": "2026-09-27",
+          "url": "https://github.com/ArchiveBox/abx-dl"
+        },
+        {
+          "name": "the911fund/skill-of-skills",
+          "description": "The autonomous discovery engine for AI coding tools. Indexes skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.",
+          "language": "Python",
+          "stars": 62,
+          "forks": 18,
+          "updated": "2026-09-27",
+          "url": "https://github.com/the911fund/skill-of-skills"
+        },
+        {
+          "name": "aropan/clist",
+          "description": "Your comprehensive guide to global programming contests. Track events, get details, and never miss a competition.",
+          "language": "Python",
+          "stars": 440,
+          "forks": 68,
+          "updated": "2026-09-27",
+          "url": "https://github.com/aropan/clist"
+        },
+        {
+          "name": "ashleydarosa/CC-Checker-Validator-Generator",
+          "description": "Python CLI toolkit for payment QA: generate and validate synthetic Luhn-valid card numbers by brand, BIN, or custom pattern. Supports Visa, Mastercard, Amex, Discover and more, plus BIN/IIN lookup, expiry/CVV checks, bulk validation, masking, and TXT/CSV/JSON export. Offline and cross-platform.",
+          "language": "Python",
+          "stars": 193,
+          "forks": 41,
+          "updated": "2026-09-27",
+          "url": "https://github.com/ashleydarosa/CC-Checker-Validator-Generator"
+        },
+        {
+          "name": "teng-lin/notebooklm-py",
+          "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+          "language": "Python",
+          "stars": 19486,
+          "forks": 2605,
+          "updated": "2026-09-27",
+          "url": "https://github.com/teng-lin/notebooklm-py"
+        },
+        {
+          "name": "tubecreate/tubecli",
+          "description": "⚡ TubeCLI — The Ultimate Open Source AI Agents Ecosystem | Agents Browser · Agents Workflow · Agents Studio World",
+          "language": "Python",
+          "stars": 172,
+          "forks": 5,
+          "updated": "2026-09-27",
+          "url": "https://github.com/tubecreate/tubecli"
+        },
+        {
+          "name": "open-edge-platform/datumaro",
+          "description": "Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.",
+          "language": "Python",
+          "stars": 690,
+          "forks": 162,
+          "updated": "2026-09-27",
+          "url": "https://github.com/open-edge-platform/datumaro"
+        },
+        {
+          "name": "crow-cli/crow-cli",
+          "description": "MCP based ACP agent",
+          "language": "Python",
+          "stars": 60,
+          "forks": 7,
+          "updated": "2026-09-27",
+          "url": "https://github.com/crow-cli/crow-cli"
+        },
+        {
+          "name": "djunekz/termux-app-store",
+          "description": "TUI & CLI package manager for Termux on Android. Browse, build, and install community tools from source and binary source — offline, SHA256-verified, no root. Like AUR but for Termux.",
+          "language": "Python",
+          "stars": 110,
+          "forks": 17,
+          "updated": "2026-09-27",
+          "url": "https://github.com/djunekz/termux-app-store"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "counts": {
+    "rising": 10,
+    "ai": 10,
+    "tools": 10
+  },
+  "snapshot_date": "2026-09-27"
+}
