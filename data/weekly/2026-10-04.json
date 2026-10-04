@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-10-04T04:42:59Z",
+  "next_update": "2026-10-05T02:00:00Z",
+  "sections": {
+    "rising": {
+      "title": "Rising Repositories",
+      "query": "created:>=2026-09-20 stars:>=10 archived:false is:public",
+      "repos": [
+        {
+          "name": "Niko1221/Strata",
+          "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+          "language": "C++",
+          "stars": 8769,
+          "forks": 784,
+          "updated": "2026-10-03",
+          "url": "https://github.com/Niko1221/Strata"
+        },
+        {
+          "name": "zai-org/ZCode",
+          "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+          "language": "TypeScript",
+          "stars": 7378,
+          "forks": 2251,
+          "updated": "2026-09-29",
+          "url": "https://github.com/zai-org/ZCode"
+        },
+        {
+          "name": "jev-chat/jev-chat-jarvis",
+          "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+          "language": "Kotlin",
+          "stars": 7303,
+          "forks": 1221,
+          "updated": "2026-10-03",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis"
+        },
+        {
+          "name": "KKKKhazix/AIHOT",
+          "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+          "language": "TypeScript",
+          "stars": 5495,
+          "forks": 1437,
+          "updated": "2026-10-03",
+          "url": "https://github.com/KKKKhazix/AIHOT"
+        },
+        {
+          "name": "yetone/magpie",
+          "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+          "language": "Go",
+          "stars": 4493,
+          "forks": 317,
+          "updated": "2026-10-04",
+          "url": "https://github.com/yetone/magpie"
+        },
+        {
+          "name": "Louis-CFM/coucou",
+          "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+          "language": "Swift",
+          "stars": 3254,
+          "forks": 504,
+          "updated": "2026-10-04",
+          "url": "https://github.com/Louis-CFM/coucou"
+        },
+        {
+          "name": "shihabal3amri/DiPlay",
+          "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+          "language": "Kotlin",
+          "stars": 3114,
+          "forks": 420,
+          "updated": "2026-10-03",
+          "url": "https://github.com/shihabal3amri/DiPlay"
+        },
+        {
+          "name": "Contrastive-LM/CLM",
+          "description": "",
+          "language": "Python",
+          "stars": 2765,
+          "forks": 238,
+          "updated": "2026-09-24",
+          "url": "https://github.com/Contrastive-LM/CLM"
+        },
+        {
+          "name": "rehan-remade/universal-modder",
+          "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+          "language": "Python",
+          "stars": 2675,
+          "forks": 237,
+          "updated": "2026-10-04",
+          "url": "https://github.com/rehan-remade/universal-modder"
+        },
+        {
+          "name": "CopilotKit/OpenDots",
+          "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+          "language": "TypeScript",
+          "stars": 2637,
+          "forks": 325,
+          "updated": "2026-10-02",
+          "url": "https://github.com/CopilotKit/OpenDots"
+        }
+      ]
+    },
+    "ai": {
+      "title": "AI / Agent Radar",
+      "query": "(mcp OR llm OR rag OR \"ai agent\" OR \"coding agent\" OR langchain) stars:>=20 pushed:>=2026-09-04 archived:false is:public",
+      "repos": [
+        {
+          "name": "JakeSelby/model-citizen",
+          "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stances, projected into Claude Code and Codex with your own primitives: hook-enforced guardrails, usage telemetry, cost postures and model tiering, under any rules library or orchestration layer.",
+          "language": "Python",
+          "stars": 24,
+          "forks": 4,
+          "updated": "2026-10-04",
+          "url": "https://github.com/JakeSelby/model-citizen"
+        },
+        {
+          "name": "shd101wyy/Yo",
+          "description": "Yo (柚) - A programming language that's LLM-friendly to write and human-friendly to read",
+          "language": "Python",
+          "stars": 37,
+          "forks": 0,
+          "updated": "2026-10-04",
+          "url": "https://github.com/shd101wyy/Yo"
+        },
+        {
+          "name": "hproxy-com/free-proxy-list",
+          "description": "Free proxy list, verified around the clock: HTTP, HTTPS, SOCKS4 and SOCKS5 proxies with country, anonymity, latency and uptime on every row, updated several times a day. Live list, proxy checker, keyless API and MCP server at hproxy.com.",
+          "language": "—",
+          "stars": 72,
+          "forks": 6,
+          "updated": "2026-10-04",
+          "url": "https://github.com/hproxy-com/free-proxy-list"
+        },
+        {
+          "name": "boldsoftware/shelley",
+          "description": "Shelley is a coding agent",
+          "language": "Go",
+          "stars": 674,
+          "forks": 111,
+          "updated": "2026-10-04",
+          "url": "https://github.com/boldsoftware/shelley"
+        },
+        {
+          "name": "vogellacompany/eclipse-mcp-server",
+          "description": "MCP server for Eclipse",
+          "language": "Java",
+          "stars": 21,
+          "forks": 4,
+          "updated": "2026-10-04",
+          "url": "https://github.com/vogellacompany/eclipse-mcp-server"
+        },
+        {
+          "name": "Junjue-Wang/DORA",
+          "description": "[NeurIPS 2026 Oral] DORA: Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations",
+          "language": "Python",
+          "stars": 28,
+          "forks": 0,
+          "updated": "2026-10-04",
+          "url": "https://github.com/Junjue-Wang/DORA"
+        },
+        {
+          "name": "rxmna8502/vybe-intelligence-vault",
+          "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generation web development.",
+          "language": "JavaScript",
+          "stars": 21,
+          "forks": 2,
+          "updated": "2026-10-04",
+          "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+        },
+        {
+          "name": "rynfar/meridian",
+          "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.",
+          "language": "TypeScript",
+          "stars": 2089,
+          "forks": 239,
+          "updated": "2026-10-04",
+          "url": "https://github.com/rynfar/meridian"
+        },
+        {
+          "name": "kortix-ai/suna",
+          "description": "The open-source AI Operating System",
+          "language": "TypeScript",
+          "stars": 20245,
+          "forks": 3435,
+          "updated": "2026-10-04",
+          "url": "https://github.com/kortix-ai/suna"
+        },
+        {
+          "name": "smithersai/smithers",
+          "description": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+          "language": "TypeScript",
+          "stars": 428,
+          "forks": 51,
+          "updated": "2026-10-04",
+          "url": "https://github.com/smithersai/smithers"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Developer Tools Radar",
+      "query": "cli language:Python stars:>=30 pushed:>=2026-09-04 archived:false is:public | cli language:TypeScript stars:>=30 pushed:>=2026-09-04 archived:false is:public",
+      "repos": [
+        {
+          "name": "lbedner/aegis-stack",
+          "description": "A production-ready FastAPI platform with modular components and a built-in control plane.",
+          "language": "Python",
+          "stars": 143,
+          "forks": 10,
+          "updated": "2026-10-04",
+          "url": "https://github.com/lbedner/aegis-stack"
+        },
+        {
+          "name": "MrTyton/AutomatedFanfic",
+          "description": "Automated Fanfiction Download using FanficFare CLI",
+          "language": "Python",
+          "stars": 39,
+          "forks": 8,
+          "updated": "2026-10-04",
+          "url": "https://github.com/MrTyton/AutomatedFanfic"
+        },
+        {
+          "name": "ashleydarosa/CC-Checker-Validator-Generator",
+          "description": "Python CLI toolkit for payment QA: generate and validate synthetic Luhn-valid card numbers by brand, BIN, or custom pattern. Supports Visa, Mastercard, Amex, Discover and more, plus BIN/IIN lookup, expiry/CVV checks, bulk validation, masking, and TXT/CSV/JSON export. Offline and cross-platform.",
+          "language": "Python",
+          "stars": 196,
+          "forks": 42,
+          "updated": "2026-10-04",
+          "url": "https://github.com/ashleydarosa/CC-Checker-Validator-Generator"
+        },
+        {
+          "name": "the911fund/skill-of-skills",
+          "description": "The autonomous discovery engine for AI coding tools. Indexes skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.",
+          "language": "Python",
+          "stars": 64,
+          "forks": 18,
+          "updated": "2026-10-04",
+          "url": "https://github.com/the911fund/skill-of-skills"
+        },
+        {
+          "name": "can4hou6joeng4/boss-agent-cli",
+          "description": "🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default.",
+          "language": "Python",
+          "stars": 2040,
+          "forks": 171,
+          "updated": "2026-10-04",
+          "url": "https://github.com/can4hou6joeng4/boss-agent-cli"
+        },
+        {
+          "name": "Azzurroooo/rind",
+          "description": "Lightweight AI coding agent for the terminal, with one-shot automation, persistent agent teams, and a small reusable OpenAI-compatible agent kernel.",
+          "language": "Python",
+          "stars": 50,
+          "forks": 1,
+          "updated": "2026-10-04",
+          "url": "https://github.com/Azzurroooo/rind"
+        },
+        {
+          "name": "costiash/claude-code-docs",
+          "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's servers, zero content redistributed. Auto-discovery skill, instant search, interactive HTML courses, and doc changelog reports.",
+          "language": "Python",
+          "stars": 53,
+          "forks": 5,
+          "updated": "2026-10-04",
+          "url": "https://github.com/costiash/claude-code-docs"
+        },
+        {
+          "name": "davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 32356,
+          "forks": 3691,
+          "updated": "2026-10-04",
+          "url": "https://github.com/davila7/claude-code-templates"
+        },
+        {
+          "name": "mverab/eGEOagents",
+          "description": "Open-source Generative Engine Optimization (GEO) & Answer Engine Optimization (AEO) toolkit — optimize content to rank in ChatGPT, Perplexity, Gemini & Claude. AI SEO / LLM SEO. CLI, Claude Code, MCP.",
+          "language": "Python",
+          "stars": 197,
+          "forks": 56,
+          "updated": "2026-10-04",
+          "url": "https://github.com/mverab/eGEOagents"
+        },
+        {
+          "name": "raullenchai/Rapid-MLX",
+          "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-gated with Claude Code, Codex CLI, Aider, Hermes and DeepSeek Harness.",
+          "language": "Python",
+          "stars": 3896,
+          "forks": 427,
+          "updated": "2026-10-04",
+          "url": "https://github.com/raullenchai/Rapid-MLX"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "counts": {
+    "rising": 10,
+    "ai": 10,
+    "tools": 10
+  },
+  "snapshot_date": "2026-10-04"
+}
