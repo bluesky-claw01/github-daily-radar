@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-10-11T09:40:24Z",
+  "next_update": "2026-10-12T02:00:00Z",
+  "sections": {
+    "rising": {
+      "title": "Rising Repositories",
+      "query": "created:>=2026-09-27 stars:>=10 archived:false is:public",
+      "repos": [
+        {
+          "name": "storytold/photocraft",
+          "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+          "language": "Rust",
+          "stars": 44028,
+          "forks": 6744,
+          "updated": "2026-10-11",
+          "url": "https://github.com/storytold/photocraft"
+        },
+        {
+          "name": "openai/math",
+          "description": "",
+          "language": "Lean",
+          "stars": 13843,
+          "forks": 1534,
+          "updated": "2026-10-08",
+          "url": "https://github.com/openai/math"
+        },
+        {
+          "name": "storytold/lightcraft",
+          "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+          "language": "Rust",
+          "stars": 9402,
+          "forks": 3060,
+          "updated": "2026-10-11",
+          "url": "https://github.com/storytold/lightcraft"
+        },
+        {
+          "name": "storytold/filmcraft",
+          "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+          "language": "Rust",
+          "stars": 9095,
+          "forks": 3402,
+          "updated": "2026-10-11",
+          "url": "https://github.com/storytold/filmcraft"
+        },
+        {
+          "name": "storytold/pdfcraft",
+          "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
+          "language": "Rust",
+          "stars": 8478,
+          "forks": 3069,
+          "updated": "2026-10-11",
+          "url": "https://github.com/storytold/pdfcraft"
+        },
+        {
+          "name": "KKKKhazix/AIHOT",
+          "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+          "language": "TypeScript",
+          "stars": 7113,
+          "forks": 1735,
+          "updated": "2026-10-11",
+          "url": "https://github.com/KKKKhazix/AIHOT"
+        },
+        {
+          "name": "storytold/vectorcraft",
+          "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+          "language": "Rust",
+          "stars": 6487,
+          "forks": 2767,
+          "updated": "2026-10-11",
+          "url": "https://github.com/storytold/vectorcraft"
+        },
+        {
+          "name": "rehan-remade/universal-modder",
+          "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+          "language": "Python",
+          "stars": 6484,
+          "forks": 641,
+          "updated": "2026-10-11",
+          "url": "https://github.com/rehan-remade/universal-modder"
+        },
+        {
+          "name": "CopilotKit/OpenDots",
+          "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+          "language": "TypeScript",
+          "stars": 4842,
+          "forks": 691,
+          "updated": "2026-10-10",
+          "url": "https://github.com/CopilotKit/OpenDots"
+        },
+        {
+          "name": "storytold/effectcraft",
+          "description": "",
+          "language": "Rust",
+          "stars": 4781,
+          "forks": 2224,
+          "updated": "2026-10-11",
+          "url": "https://github.com/storytold/effectcraft"
+        }
+      ]
+    },
+    "ai": {
+      "title": "AI / Agent Radar",
+      "query": "(mcp OR llm OR rag OR \"ai agent\" OR \"coding agent\" OR langchain) stars:>=20 pushed:>=2026-09-11 archived:false is:public",
+      "repos": [
+        {
+          "name": "vllm-project/vllm-ascend",
+          "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+          "language": "Python",
+          "stars": 2949,
+          "forks": 2420,
+          "updated": "2026-10-11",
+          "url": "https://github.com/vllm-project/vllm-ascend"
+        },
+        {
+          "name": "formetaohy/Neura",
+          "description": "Deep learning for games",
+          "language": "Rust",
+          "stars": 24,
+          "forks": 1,
+          "updated": "2026-10-11",
+          "url": "https://github.com/formetaohy/Neura"
+        },
+        {
+          "name": "defai-digital/ax-engine",
+          "description": "One Mac process. Many models. Real speed. Multi-model LLM serving with prefix reuse, MTP acceleration, and OpenAI APIs — built for Apple Silicon, measured against mlx-lm and llama.cpp.",
+          "language": "Rust",
+          "stars": 31,
+          "forks": 2,
+          "updated": "2026-10-11",
+          "url": "https://github.com/defai-digital/ax-engine"
+        },
+        {
+          "name": "firewalker06/tycho",
+          "description": "Its Factorio for coding agents",
+          "language": "Ruby",
+          "stars": 51,
+          "forks": 5,
+          "updated": "2026-10-11",
+          "url": "https://github.com/firewalker06/tycho"
+        },
+        {
+          "name": "elizaOS/eliza",
+          "description": "Open source agentic operating system",
+          "language": "TypeScript",
+          "stars": 19568,
+          "forks": 5793,
+          "updated": "2026-10-11",
+          "url": "https://github.com/elizaOS/eliza"
+        },
+        {
+          "name": "hproxy-com/free-proxy-list",
+          "description": "Free proxy list, verified around the clock: HTTP, HTTPS, SOCKS4 and SOCKS5 proxies with country, anonymity, latency and uptime on every row, updated several times a day. Live list, proxy checker, keyless API and MCP server at hproxy.com.",
+          "language": "—",
+          "stars": 77,
+          "forks": 7,
+          "updated": "2026-10-11",
+          "url": "https://github.com/hproxy-com/free-proxy-list"
+        },
+        {
+          "name": "kaeawc/auto-mobile",
+          "description": "Mobile automation suite of tools including an MCP and libraries for test authoring & execution",
+          "language": "TypeScript",
+          "stars": 51,
+          "forks": 7,
+          "updated": "2026-10-11",
+          "url": "https://github.com/kaeawc/auto-mobile"
+        },
+        {
+          "name": "stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 89402,
+          "forks": 5716,
+          "updated": "2026-10-11",
+          "url": "https://github.com/stablyai/orca"
+        },
+        {
+          "name": "aouicher/graphmind",
+          "description": "Local-first code intelligence for AI assistants. Turns your codebase into a knowledge graph your AI can query, navigate, and remember. 25 MCP tools.",
+          "language": "Rust",
+          "stars": 213,
+          "forks": 20,
+          "updated": "2026-10-11",
+          "url": "https://github.com/aouicher/graphmind"
+        },
+        {
+          "name": "spec-kitty/spec-kitty",
+          "description": "Spec-Driven Development with organizational governance. Specs tell AI agents what to build; Charter governs how they build it. Git-native missions, enforceable workflows, and consistent engineering standards across AI coding agents and harnesses.",
+          "language": "Python",
+          "stars": 1679,
+          "forks": 180,
+          "updated": "2026-10-11",
+          "url": "https://github.com/spec-kitty/spec-kitty"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Developer Tools Radar",
+      "query": "cli language:Python stars:>=30 pushed:>=2026-09-11 archived:false is:public | cli language:TypeScript stars:>=30 pushed:>=2026-09-11 archived:false is:public",
+      "repos": [
+        {
+          "name": "xianyu-sheng/Xenon",
+          "description": "🚀 Xenon 0.9.2 — 可验证的 AI coding agent runtime：单一任务状态机、证据驱动执行、7 种推理范式、MCP、多模型与 Windows/GBK 兼容。",
+          "language": "Python",
+          "stars": 53,
+          "forks": 1,
+          "updated": "2026-10-11",
+          "url": "https://github.com/xianyu-sheng/Xenon"
+        },
+        {
+          "name": "ashleydarosa/CC-Checker-Validator-Generator",
+          "description": "Python CLI toolkit for payment QA: generate and validate synthetic Luhn-valid card numbers by brand, BIN, or custom pattern. Supports Visa, Mastercard, Amex, Discover and more, plus BIN/IIN lookup, expiry/CVV checks, bulk validation, masking, and TXT/CSV/JSON export. Offline and cross-platform.",
+          "language": "Python",
+          "stars": 196,
+          "forks": 42,
+          "updated": "2026-10-11",
+          "url": "https://github.com/ashleydarosa/CC-Checker-Validator-Generator"
+        },
+        {
+          "name": "lsaint/aikito",
+          "description": "Your durable workspace across AI agents.",
+          "language": "Python",
+          "stars": 134,
+          "forks": 0,
+          "updated": "2026-10-11",
+          "url": "https://github.com/lsaint/aikito"
+        },
+        {
+          "name": "openonion/connectonion",
+          "description": "CLI is all you need. The agent CLI harness.",
+          "language": "Python",
+          "stars": 1496,
+          "forks": 227,
+          "updated": "2026-10-11",
+          "url": "https://github.com/openonion/connectonion"
+        },
+        {
+          "name": "ypollak2/llm-router",
+          "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cuts costs 35-80%.",
+          "language": "Python",
+          "stars": 97,
+          "forks": 12,
+          "updated": "2026-10-11",
+          "url": "https://github.com/ypollak2/llm-router"
+        },
+        {
+          "name": "licyk/sd-webui-all-in-one",
+          "description": "支持安装、下载、启动和管理多种 AI WebUI / 训练工具的一体化项目，提供 Installer、整合包下载器、Launcher、CLI 与 Colab / Kaggle Notebook。",
+          "language": "Python",
+          "stars": 261,
+          "forks": 32,
+          "updated": "2026-10-11",
+          "url": "https://github.com/licyk/sd-webui-all-in-one"
+        },
+        {
+          "name": "schemathesis/schemathesis",
+          "description": "Catch API bugs before your users do",
+          "language": "Python",
+          "stars": 3658,
+          "forks": 225,
+          "updated": "2026-10-11",
+          "url": "https://github.com/schemathesis/schemathesis"
+        },
+        {
+          "name": "the911fund/skill-of-skills",
+          "description": "The autonomous discovery engine for AI coding tools. Indexes skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.",
+          "language": "Python",
+          "stars": 64,
+          "forks": 18,
+          "updated": "2026-10-11",
+          "url": "https://github.com/the911fund/skill-of-skills"
+        },
+        {
+          "name": "jin-bo/agentao",
+          "description": "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and audit replay built in.",
+          "language": "Python",
+          "stars": 309,
+          "forks": 13,
+          "updated": "2026-10-11",
+          "url": "https://github.com/jin-bo/agentao"
+        },
+        {
+          "name": "rekursiv-ai/sagent",
+          "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool calls and bidirectional recursive spawn.",
+          "language": "Python",
+          "stars": 81,
+          "forks": 18,
+          "updated": "2026-10-11",
+          "url": "https://github.com/rekursiv-ai/sagent"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "counts": {
+    "rising": 10,
+    "ai": 10,
+    "tools": 10
+  },
+  "snapshot_date": "2026-10-11"
+}
