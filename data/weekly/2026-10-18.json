@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-10-18T07:46:33Z",
+  "next_update": "2026-10-19T02:00:00Z",
+  "sections": {
+    "rising": {
+      "title": "Rising Repositories",
+      "query": "created:>=2026-10-04 stars:>=10 archived:false is:public",
+      "repos": [
+        {
+          "name": "wheresryan22/anatomy",
+          "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+          "language": "JavaScript",
+          "stars": 15412,
+          "forks": 1177,
+          "updated": "2026-10-15",
+          "url": "https://github.com/wheresryan22/anatomy"
+        },
+        {
+          "name": "openai/math",
+          "description": "",
+          "language": "Lean",
+          "stars": 15122,
+          "forks": 1749,
+          "updated": "2026-10-12",
+          "url": "https://github.com/openai/math"
+        },
+        {
+          "name": "storytold/wordcraft",
+          "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+          "language": "Rust",
+          "stars": 14137,
+          "forks": 3723,
+          "updated": "2026-10-18",
+          "url": "https://github.com/storytold/wordcraft"
+        },
+        {
+          "name": "storytold/cadcraft",
+          "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+          "language": "Rust",
+          "stars": 5649,
+          "forks": 2523,
+          "updated": "2026-10-18",
+          "url": "https://github.com/storytold/cadcraft"
+        },
+        {
+          "name": "storytold/gridcraft",
+          "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+          "language": "Rust",
+          "stars": 5648,
+          "forks": 2595,
+          "updated": "2026-10-18",
+          "url": "https://github.com/storytold/gridcraft"
+        },
+        {
+          "name": "ARahim3/DigUp",
+          "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+          "language": "Swift",
+          "stars": 4642,
+          "forks": 334,
+          "updated": "2026-10-18",
+          "url": "https://github.com/ARahim3/DigUp"
+        },
+        {
+          "name": "tangency-labs/solidcraft",
+          "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+          "language": "Rust",
+          "stars": 4525,
+          "forks": 536,
+          "updated": "2026-10-18",
+          "url": "https://github.com/tangency-labs/solidcraft"
+        },
+        {
+          "name": "alchaincyf/huashu-art-motion",
+          "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+          "language": "JavaScript",
+          "stars": 4272,
+          "forks": 461,
+          "updated": "2026-10-16",
+          "url": "https://github.com/alchaincyf/huashu-art-motion"
+        },
+        {
+          "name": "zhongerxin/iPhone-use",
+          "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+          "language": "Python",
+          "stars": 4094,
+          "forks": 412,
+          "updated": "2026-10-16",
+          "url": "https://github.com/zhongerxin/iPhone-use"
+        },
+        {
+          "name": "LosaLosSantos/aurelio-finance",
+          "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+          "language": "Python",
+          "stars": 3952,
+          "forks": 499,
+          "updated": "2026-10-17",
+          "url": "https://github.com/LosaLosSantos/aurelio-finance"
+        }
+      ]
+    },
+    "ai": {
+      "title": "AI / Agent Radar",
+      "query": "(mcp OR llm OR rag OR \"ai agent\" OR \"coding agent\" OR langchain) stars:>=20 pushed:>=2026-09-18 archived:false is:public",
+      "repos": [
+        {
+          "name": "smg-project/smg",
+          "description": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.",
+          "language": "Rust",
+          "stars": 613,
+          "forks": 192,
+          "updated": "2026-10-18",
+          "url": "https://github.com/smg-project/smg"
+        },
+        {
+          "name": "getrebuild/rebuild",
+          "description": "最新版全面支持AI智能！通过自然语言操作业务数据，支持 Skills/工具/知识库/MCP。高度可配置化的国产企业管理系统，企业内部可免费商用！零代码/低代码快速搭建WMS库存管理、MES生产报工、CRM客户管理、HRM人事管理，以及 TMS/ERP 等",
+          "language": "Java",
+          "stars": 1083,
+          "forks": 260,
+          "updated": "2026-10-18",
+          "url": "https://github.com/getrebuild/rebuild"
+        },
+        {
+          "name": "Evil0ctal/Douyin_TikTok_Download_API",
+          "description": "🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up.",
+          "language": "Python",
+          "stars": 20756,
+          "forks": 3008,
+          "updated": "2026-10-18",
+          "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API"
+        },
+        {
+          "name": "NeverSight/NeverD",
+          "description": "The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]",
+          "language": "C++",
+          "stars": 93,
+          "forks": 17,
+          "updated": "2026-10-18",
+          "url": "https://github.com/NeverSight/NeverD"
+        },
+        {
+          "name": "MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "language": "Python",
+          "stars": 59622,
+          "forks": 7563,
+          "updated": "2026-10-18",
+          "url": "https://github.com/MemPalace/mempalace"
+        },
+        {
+          "name": "last9/last9-mcp-server",
+          "description": "Last9 MCP Server",
+          "language": "Go",
+          "stars": 63,
+          "forks": 11,
+          "updated": "2026-10-18",
+          "url": "https://github.com/last9/last9-mcp-server"
+        },
+        {
+          "name": "lynnswap/XcodeMCPKit",
+          "description": "Local Xcode MCP proxy with a stable endpoint and approval automation",
+          "language": "Swift",
+          "stars": 29,
+          "forks": 4,
+          "updated": "2026-10-18",
+          "url": "https://github.com/lynnswap/XcodeMCPKit"
+        },
+        {
+          "name": "DojoCodingLabs/hacienda-cr",
+          "description": "TypeScript SDK, CLI & MCP Server for Costa Rica electronic invoicing (Hacienda API)",
+          "language": "TypeScript",
+          "stars": 25,
+          "forks": 9,
+          "updated": "2026-10-18",
+          "url": "https://github.com/DojoCodingLabs/hacienda-cr"
+        },
+        {
+          "name": "hproxy-com/free-proxy-list",
+          "description": "Free proxy list, verified around the clock: HTTP, HTTPS, SOCKS4 and SOCKS5 proxies with country, anonymity, latency and uptime on every row, updated several times a day. Live list, proxy checker, keyless API and MCP server at hproxy.com.",
+          "language": "—",
+          "stars": 81,
+          "forks": 7,
+          "updated": "2026-10-18",
+          "url": "https://github.com/hproxy-com/free-proxy-list"
+        },
+        {
+          "name": "zekker6/mcp-helm",
+          "description": "MCP server for Helm package manager",
+          "language": "Go",
+          "stars": 27,
+          "forks": 4,
+          "updated": "2026-10-18",
+          "url": "https://github.com/zekker6/mcp-helm"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Developer Tools Radar",
+      "query": "cli language:Python stars:>=30 pushed:>=2026-09-18 archived:false is:public | cli language:TypeScript stars:>=30 pushed:>=2026-09-18 archived:false is:public",
+      "repos": [
+        {
+          "name": "sickn33/agentic-awesome-skills",
+          "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+          "language": "Python",
+          "stars": 47808,
+          "forks": 6977,
+          "updated": "2026-10-18",
+          "url": "https://github.com/sickn33/agentic-awesome-skills"
+        },
+        {
+          "name": "chio-labs/sqlbuild",
+          "description": "SQL transformation framework with custom compile-time checks, end-to-end testing and safe renames that keep your table history.",
+          "language": "Python",
+          "stars": 44,
+          "forks": 2,
+          "updated": "2026-10-18",
+          "url": "https://github.com/chio-labs/sqlbuild"
+        },
+        {
+          "name": "MarcoPorcellato/matryca-plumber",
+          "description": "Local-first AI daemon for Logseq OG: background semantic indexing, link hygiene, and agent-ready CLI/MCP — edits Markdown on disk (no cloud, no Logseq API). Karpathy LLM-Wiki inspired.",
+          "language": "Python",
+          "stars": 100,
+          "forks": 17,
+          "updated": "2026-10-18",
+          "url": "https://github.com/MarcoPorcellato/matryca-plumber"
+        },
+        {
+          "name": "emiliano-go/trustsight",
+          "description": "Audits AUR PKGBUILD updates before you install: detects structural changes, suspicious commands, typosquatting, and novelty signals, then produces a deterministic evidence report.",
+          "language": "Python",
+          "stars": 38,
+          "forks": 1,
+          "updated": "2026-10-18",
+          "url": "https://github.com/emiliano-go/trustsight"
+        },
+        {
+          "name": "saulpw/visidata",
+          "description": "A terminal spreadsheet multitool for discovering and arranging data",
+          "language": "Python",
+          "stars": 9357,
+          "forks": 374,
+          "updated": "2026-10-18",
+          "url": "https://github.com/saulpw/visidata"
+        },
+        {
+          "name": "pverhoeven74/Crypto-Clipper",
+          "description": "Crypto Clipper is a cross-platform clipboard monitoring and builder tool for BTC, ETH, SOL, TRX, LTC, and DOGE address detection. Features include regex matching, address validation, activity logs, custom rules, clipboard history, UI customization, and standalone client generation for Windows, Linux, and macOS with embedded settings.",
+          "language": "Python",
+          "stars": 45,
+          "forks": 5,
+          "updated": "2026-10-18",
+          "url": "https://github.com/pverhoeven74/Crypto-Clipper"
+        },
+        {
+          "name": "RenierM26/pyEzvizApi",
+          "description": "Python API and CLI for EZVIZ cameras and smart devices, with Home Assistant integration support.",
+          "language": "Python",
+          "stars": 83,
+          "forks": 24,
+          "updated": "2026-10-18",
+          "url": "https://github.com/RenierM26/pyEzvizApi"
+        },
+        {
+          "name": "tox-dev/tox",
+          "description": "Command line driven CI frontend and development task automation tool.",
+          "language": "Python",
+          "stars": 3965,
+          "forks": 619,
+          "updated": "2026-10-18",
+          "url": "https://github.com/tox-dev/tox"
+        },
+        {
+          "name": "Aletheore/Aletheore",
+          "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
+          "language": "Python",
+          "stars": 486,
+          "forks": 51,
+          "updated": "2026-10-18",
+          "url": "https://github.com/Aletheore/Aletheore"
+        },
+        {
+          "name": "kstevica/captain-claw",
+          "description": "Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.",
+          "language": "Python",
+          "stars": 172,
+          "forks": 21,
+          "updated": "2026-10-18",
+          "url": "https://github.com/kstevica/captain-claw"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "counts": {
+    "rising": 10,
+    "ai": 10,
+    "tools": 10
+  },
+  "snapshot_date": "2026-10-18"
+}
