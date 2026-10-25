@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-10-25T08:06:49Z",
+  "next_update": "2026-10-26T02:00:00Z",
+  "sections": {
+    "rising": {
+      "title": "Rising Repositories",
+      "query": "created:>=2026-10-11 stars:>=10 archived:false is:public",
+      "repos": [
+        {
+          "name": "Gathin23/cleanyourtv",
+          "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+          "language": "Java",
+          "stars": 32731,
+          "forks": 3832,
+          "updated": "2026-10-25",
+          "url": "https://github.com/Gathin23/cleanyourtv"
+        },
+        {
+          "name": "deepseek-ai/DeepInfer",
+          "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+          "language": "Python",
+          "stars": 22054,
+          "forks": 2524,
+          "updated": "2026-10-21",
+          "url": "https://github.com/deepseek-ai/DeepInfer"
+        },
+        {
+          "name": "ly05010419/MacNativeGames",
+          "description": "",
+          "language": "C",
+          "stars": 5292,
+          "forks": 765,
+          "updated": "2026-10-23",
+          "url": "https://github.com/ly05010419/MacNativeGames"
+        },
+        {
+          "name": "jhaizhou-ops/d2r-mobile",
+          "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层",
+          "language": "C",
+          "stars": 4581,
+          "forks": 1232,
+          "updated": "2026-10-23",
+          "url": "https://github.com/jhaizhou-ops/d2r-mobile"
+        },
+        {
+          "name": "pengchujin/aerial-tv",
+          "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+          "language": "Kotlin",
+          "stars": 4562,
+          "forks": 358,
+          "updated": "2026-10-25",
+          "url": "https://github.com/pengchujin/aerial-tv"
+        },
+        {
+          "name": "simbasjungles/free-my-tv",
+          "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+          "language": "Java",
+          "stars": 4369,
+          "forks": 716,
+          "updated": "2026-10-24",
+          "url": "https://github.com/simbasjungles/free-my-tv"
+        },
+        {
+          "name": "Zagitta/gpu-unlock",
+          "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+          "language": "C",
+          "stars": 3962,
+          "forks": 444,
+          "updated": "2026-10-24",
+          "url": "https://github.com/Zagitta/gpu-unlock"
+        },
+        {
+          "name": "HeyPuter/everything",
+          "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+          "language": "JavaScript",
+          "stars": 3844,
+          "forks": 481,
+          "updated": "2026-10-24",
+          "url": "https://github.com/HeyPuter/everything"
+        },
+        {
+          "name": "onehumanbeing/esp32-iphone-agent",
+          "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+          "language": "C",
+          "stars": 3825,
+          "forks": 501,
+          "updated": "2026-10-22",
+          "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+        },
+        {
+          "name": "Arekejoker/qwen21-nsfw-pose-skill",
+          "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+          "language": "Python",
+          "stars": 3710,
+          "forks": 657,
+          "updated": "2026-10-20",
+          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+        }
+      ]
+    },
+    "ai": {
+      "title": "AI / Agent Radar",
+      "query": "(mcp OR llm OR rag OR \"ai agent\" OR \"coding agent\" OR langchain) stars:>=20 pushed:>=2026-09-25 archived:false is:public",
+      "repos": [
+        {
+          "name": "callstackincubator/simlock",
+          "description": "A control plane so parallel coding agents stop fighting over the same simulator.",
+          "language": "TypeScript",
+          "stars": 22,
+          "forks": 2,
+          "updated": "2026-10-25",
+          "url": "https://github.com/callstackincubator/simlock"
+        },
+        {
+          "name": "arcships/aimux",
+          "description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
+          "language": "Rust",
+          "stars": 204,
+          "forks": 12,
+          "updated": "2026-10-25",
+          "url": "https://github.com/arcships/aimux"
+        },
+        {
+          "name": "kirodotdev/KiroCrew",
+          "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+          "language": "Python",
+          "stars": 4571,
+          "forks": 872,
+          "updated": "2026-10-25",
+          "url": "https://github.com/kirodotdev/KiroCrew"
+        },
+        {
+          "name": "sou350121/VLA-Handbook",
+          "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
+          "language": "HTML",
+          "stars": 736,
+          "forks": 45,
+          "updated": "2026-10-25",
+          "url": "https://github.com/sou350121/VLA-Handbook"
+        },
+        {
+          "name": "apache/doris",
+          "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+          "language": "Java",
+          "stars": 16139,
+          "forks": 3998,
+          "updated": "2026-10-25",
+          "url": "https://github.com/apache/doris"
+        },
+        {
+          "name": "e2b-dev/runtime",
+          "description": "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.",
+          "language": "Go",
+          "stars": 1767,
+          "forks": 493,
+          "updated": "2026-10-25",
+          "url": "https://github.com/e2b-dev/runtime"
+        },
+        {
+          "name": "AstrBotDevs/AstrBot",
+          "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+          "language": "Python",
+          "stars": 43300,
+          "forks": 3180,
+          "updated": "2026-10-25",
+          "url": "https://github.com/AstrBotDevs/AstrBot"
+        },
+        {
+          "name": "makecindy/cindy",
+          "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars": 4303,
+          "forks": 617,
+          "updated": "2026-10-25",
+          "url": "https://github.com/makecindy/cindy"
+        },
+        {
+          "name": "go-taas/go-taas",
+          "description": "Open-source Token as a Service (TaaS) platform on Kubernetes — deploy LLMs, price by model × GPU, and meter/bill usage via an OpenAI-compatible API.",
+          "language": "Go",
+          "stars": 96,
+          "forks": 1,
+          "updated": "2026-10-25",
+          "url": "https://github.com/go-taas/go-taas"
+        },
+        {
+          "name": "basilisk-labs/agentplane",
+          "description": "🛩️ Git-native workflow control for coding agents: approved plans, verification, and reviewable evidence for Claude Code, Codex, Cursor, and Aider.",
+          "language": "TypeScript",
+          "stars": 88,
+          "forks": 12,
+          "updated": "2026-10-25",
+          "url": "https://github.com/basilisk-labs/agentplane"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Developer Tools Radar",
+      "query": "cli language:Python stars:>=30 pushed:>=2026-09-25 archived:false is:public | cli language:TypeScript stars:>=30 pushed:>=2026-09-25 archived:false is:public",
+      "repos": [
+        {
+          "name": "jianshuo/claude-skills",
+          "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publishing. Compatible with Claude Code, OpenAI Codex CLI, Cursor, Gemini.",
+          "language": "Python",
+          "stars": 137,
+          "forks": 23,
+          "updated": "2026-10-25",
+          "url": "https://github.com/jianshuo/claude-skills"
+        },
+        {
+          "name": "doodledood/manifest-dev",
+          "description": "Skills for agentic coding CLIs: output you can ship with minimal review, on work you can tell was worth doing.",
+          "language": "Python",
+          "stars": 76,
+          "forks": 10,
+          "updated": "2026-10-25",
+          "url": "https://github.com/doodledood/manifest-dev"
+        },
+        {
+          "name": "Vinix24/vnx-orchestration",
+          "description": "Governance-first orchestration for Claude Code, Codex, and Gemini CLI — parallel workers, receipts, quality gates, and full provenance.",
+          "language": "Python",
+          "stars": 62,
+          "forks": 8,
+          "updated": "2026-10-25",
+          "url": "https://github.com/Vinix24/vnx-orchestration"
+        },
+        {
+          "name": "shibing624/agentica",
+          "description": "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and self-evolving skills. 一个人，一支 Agent 团队：支持多终端协作、持久记忆与技能自进化的 AI Agent 框架。",
+          "language": "Python",
+          "stars": 357,
+          "forks": 48,
+          "updated": "2026-10-25",
+          "url": "https://github.com/shibing624/agentica"
+        },
+        {
+          "name": "kdeldycke/click-extra",
+          "description": "🌈 Drop-in replacement for Click to make user-friendly and colorful CLI",
+          "language": "Python",
+          "stars": 123,
+          "forks": 14,
+          "updated": "2026-10-25",
+          "url": "https://github.com/kdeldycke/click-extra"
+        },
+        {
+          "name": "FAForever/client",
+          "description": "FAF Python Client",
+          "language": "Python",
+          "stars": 78,
+          "forks": 88,
+          "updated": "2026-10-25",
+          "url": "https://github.com/FAForever/client"
+        },
+        {
+          "name": "tobocop2/lilbee",
+          "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engine you can talk to, with cited answers from your files, code, and the web. MCP server for coding agents, web crawler, TUI, CLI, REST API, Python library. No Ollama or LM Studio needed, works with both.",
+          "language": "Python",
+          "stars": 66,
+          "forks": 8,
+          "updated": "2026-10-25",
+          "url": "https://github.com/tobocop2/lilbee"
+        },
+        {
+          "name": "damianvtran/local-operator",
+          "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions.",
+          "language": "Python",
+          "stars": 218,
+          "forks": 33,
+          "updated": "2026-10-25",
+          "url": "https://github.com/damianvtran/local-operator"
+        },
+        {
+          "name": "PDFMathTranslate/PDFMathTranslate",
+          "description": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+          "language": "Python",
+          "stars": 37846,
+          "forks": 3392,
+          "updated": "2026-10-25",
+          "url": "https://github.com/PDFMathTranslate/PDFMathTranslate"
+        },
+        {
+          "name": "ypollak2/llm-router",
+          "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cuts costs 35-80%.",
+          "language": "Python",
+          "stars": 119,
+          "forks": 17,
+          "updated": "2026-10-25",
+          "url": "https://github.com/ypollak2/llm-router"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "counts": {
+    "rising": 10,
+    "ai": 10,
+    "tools": 10
+  },
+  "snapshot_date": "2026-10-25"
+}
