@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-11-08T09:52:19Z",
+  "next_update": "2026-11-09T02:00:00Z",
+  "sections": {
+    "rising": {
+      "title": "Rising Repositories",
+      "query": "created:>=2026-10-25 stars:>=10 archived:false is:public",
+      "repos": [
+        {
+          "name": "storytold/craft-anything",
+          "description": "Craft Anything: understand how any software works, and craft your own.",
+          "language": "Rust",
+          "stars": 21525,
+          "forks": 4212,
+          "updated": "2026-11-08",
+          "url": "https://github.com/storytold/craft-anything"
+        },
+        {
+          "name": "deepseek-ai/dsh-superagent-prototype",
+          "description": "Towards a More Autonomous Agent System",
+          "language": "TypeScript",
+          "stars": 20996,
+          "forks": 2491,
+          "updated": "2026-11-03",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+        },
+        {
+          "name": "ccch1mneyyy/dsh-Go",
+          "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+          "language": "Dart",
+          "stars": 15181,
+          "forks": 661,
+          "updated": "2026-11-08",
+          "url": "https://github.com/ccch1mneyyy/dsh-Go"
+        },
+        {
+          "name": "heydamir/unslop",
+          "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+          "language": "JavaScript",
+          "stars": 11554,
+          "forks": 639,
+          "updated": "2026-11-01",
+          "url": "https://github.com/heydamir/unslop"
+        },
+        {
+          "name": "wangzan101/Mika",
+          "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+          "language": "Kotlin",
+          "stars": 7667,
+          "forks": 1761,
+          "updated": "2026-11-07",
+          "url": "https://github.com/wangzan101/Mika"
+        },
+        {
+          "name": "unclebob/ub-mode",
+          "description": "",
+          "language": "—",
+          "stars": 7273,
+          "forks": 408,
+          "updated": "2026-11-02",
+          "url": "https://github.com/unclebob/ub-mode"
+        },
+        {
+          "name": "anhao/ai-pose-gallery-zh",
+          "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+          "language": "TypeScript",
+          "stars": 6401,
+          "forks": 1618,
+          "updated": "2026-11-04",
+          "url": "https://github.com/anhao/ai-pose-gallery-zh"
+        },
+        {
+          "name": "zortos293/Lichii",
+          "description": "VERY experimental Nintendo Switch 2 emulator",
+          "language": "C++",
+          "stars": 6164,
+          "forks": 930,
+          "updated": "2026-11-08",
+          "url": "https://github.com/zortos293/Lichii"
+        },
+        {
+          "name": "patch-gg/pixelfx",
+          "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+          "language": "JavaScript",
+          "stars": 5954,
+          "forks": 772,
+          "updated": "2026-10-31",
+          "url": "https://github.com/patch-gg/pixelfx"
+        },
+        {
+          "name": "valentderah/totk-pc-recomp",
+          "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+          "language": "C",
+          "stars": 5759,
+          "forks": 475,
+          "updated": "2026-11-07",
+          "url": "https://github.com/valentderah/totk-pc-recomp"
+        }
+      ]
+    },
+    "ai": {
+      "title": "AI / Agent Radar",
+      "query": "(mcp OR llm OR rag OR \"ai agent\" OR \"coding agent\" OR langchain) stars:>=20 pushed:>=2026-10-09 archived:false is:public",
+      "repos": [
+        {
+          "name": "tile-ai/TileOPs",
+          "description": "High-performance LLM operator library built on TileLang.",
+          "language": "Python",
+          "stars": 202,
+          "forks": 76,
+          "updated": "2026-11-08",
+          "url": "https://github.com/tile-ai/TileOPs"
+        },
+        {
+          "name": "maziyarpanahi/openmed",
+          "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and browser runtimes. Apache-2.0 SDK.",
+          "language": "Python",
+          "stars": 5788,
+          "forks": 743,
+          "updated": "2026-11-08",
+          "url": "https://github.com/maziyarpanahi/openmed"
+        },
+        {
+          "name": "strelov1/freehire",
+          "description": "freehire — the open-source search engine for job seekers",
+          "language": "Go",
+          "stars": 3437,
+          "forks": 373,
+          "updated": "2026-11-08",
+          "url": "https://github.com/strelov1/freehire"
+        },
+        {
+          "name": "grouzen/flowmux",
+          "description": "Run multiple AI coding agents from one terminal dashboard.",
+          "language": "Rust",
+          "stars": 29,
+          "forks": 4,
+          "updated": "2026-11-08",
+          "url": "https://github.com/grouzen/flowmux"
+        },
+        {
+          "name": "Sarthzk/internship-tracker",
+          "description": "Auto-updated tech internships in India from 160+ company career pages, with Telegram alerts. Serverless on GitHub Actions.",
+          "language": "Python",
+          "stars": 117,
+          "forks": 7,
+          "updated": "2026-11-08",
+          "url": "https://github.com/Sarthzk/internship-tracker"
+        },
+        {
+          "name": "slopus/happy-desktop",
+          "description": "Any Model. Your Subscription. Happy Harness. The open-source desktop app for Claude Code, Codex, and Grok, with an iOS and Android app to control your coding agents from anywhere.",
+          "language": "TypeScript",
+          "stars": 106,
+          "forks": 39,
+          "updated": "2026-11-08",
+          "url": "https://github.com/slopus/happy-desktop"
+        },
+        {
+          "name": "KKKKhazix/AIHOT",
+          "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+          "language": "TypeScript",
+          "stars": 9739,
+          "forks": 2283,
+          "updated": "2026-11-08",
+          "url": "https://github.com/KKKKhazix/AIHOT"
+        },
+        {
+          "name": "surendranb/google-search-console-mcp",
+          "description": "Google Search Console MCP Server for Claude, Cursor, Windsurf and other MCP Clients",
+          "language": "Python",
+          "stars": 40,
+          "forks": 9,
+          "updated": "2026-11-08",
+          "url": "https://github.com/surendranb/google-search-console-mcp"
+        },
+        {
+          "name": "mayaradaher/challenge-Amazon",
+          "description": "The app uses the Gemini language model to generate personalized book recommendations.",
+          "language": "Jupyter Notebook",
+          "stars": 29,
+          "forks": 5,
+          "updated": "2026-11-08",
+          "url": "https://github.com/mayaradaher/challenge-Amazon"
+        },
+        {
+          "name": "bytechefhq/bytechef",
+          "description": "Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier.",
+          "language": "Java",
+          "stars": 1058,
+          "forks": 181,
+          "updated": "2026-11-08",
+          "url": "https://github.com/bytechefhq/bytechef"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Developer Tools Radar",
+      "query": "cli language:Python stars:>=30 pushed:>=2026-10-09 archived:false is:public | cli language:TypeScript stars:>=30 pushed:>=2026-10-09 archived:false is:public",
+      "repos": [
+        {
+          "name": "angel291592/caddiff",
+          "description": "git diff for CAD assemblies — two STEP files in, a picture of what changed plus a machine-readable change list out.",
+          "language": "Python",
+          "stars": 46,
+          "forks": 10,
+          "updated": "2026-11-08",
+          "url": "https://github.com/angel291592/caddiff"
+        },
+        {
+          "name": "vcs-python/vcspull",
+          "description": "🔄 Synchronize projects via yaml/json manifest. Built using `libvcs`.",
+          "language": "Python",
+          "stars": 213,
+          "forks": 19,
+          "updated": "2026-11-08",
+          "url": "https://github.com/vcs-python/vcspull"
+        },
+        {
+          "name": "Qinjingxue/Sunpack",
+          "description": "Windows 全自动压缩包处理工具：后台监控、识别、解压、递归处理与崩溃恢复。 Automated archive processing for Windows — watch folders, detect, extract, verify and recursively process archives in the background.",
+          "language": "Python",
+          "stars": 33,
+          "forks": 2,
+          "updated": "2026-11-08",
+          "url": "https://github.com/Qinjingxue/Sunpack"
+        },
+        {
+          "name": "tmux-python/tmuxp",
+          "description": "🖥️ Session manager for tmux, built on libtmux.",
+          "language": "Python",
+          "stars": 4595,
+          "forks": 250,
+          "updated": "2026-11-08",
+          "url": "https://github.com/tmux-python/tmuxp"
+        },
+        {
+          "name": "pverhoeven74/Crypto-Clipper",
+          "description": "Crypto Clipper is a cross-platform clipboard monitoring and builder tool for BTC, ETH, SOL, TRX, LTC, and DOGE address detection. Features include regex matching, address validation, activity logs, custom rules, clipboard history, UI customization, and standalone client generation for Windows, Linux, and macOS with embedded settings.",
+          "language": "Python",
+          "stars": 45,
+          "forks": 5,
+          "updated": "2026-11-08",
+          "url": "https://github.com/pverhoeven74/Crypto-Clipper"
+        },
+        {
+          "name": "tmux-python/libtmux",
+          "description": "⚙️ Python API / wrapper for tmux",
+          "language": "Python",
+          "stars": 1217,
+          "forks": 127,
+          "updated": "2026-11-08",
+          "url": "https://github.com/tmux-python/libtmux"
+        },
+        {
+          "name": "pragmatest-dev/lvkit",
+          "description": "Describe, document, render, diff, query, and convert VIs without LabVIEW using CLI and AI Agents",
+          "language": "Python",
+          "stars": 51,
+          "forks": 12,
+          "updated": "2026-11-08",
+          "url": "https://github.com/pragmatest-dev/lvkit"
+        },
+        {
+          "name": "DemonDamon/AgenticX",
+          "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
+          "language": "Python",
+          "stars": 1017,
+          "forks": 107,
+          "updated": "2026-11-08",
+          "url": "https://github.com/DemonDamon/AgenticX"
+        },
+        {
+          "name": "stubbi/asm",
+          "description": "The package registry and command-line tool for assembly projects.",
+          "language": "Python",
+          "stars": 595,
+          "forks": 3,
+          "updated": "2026-11-08",
+          "url": "https://github.com/stubbi/asm"
+        },
+        {
+          "name": "slive777/OpenAver",
+          "description": "Free open-source desktop app that scrapes JAV metadata and generates NFO + cover art for Jellyfin, Emby & Kodi. No Docker, no CLI — one-click install on Windows & macOS. 8 built-in sources + optional Metatube federation (30+ providers), actress collections, cross-language tag aliases, and a REST API for AI agents.",
+          "language": "Python",
+          "stars": 351,
+          "forks": 30,
+          "updated": "2026-11-08",
+          "url": "https://github.com/slive777/OpenAver"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "counts": {
+    "rising": 10,
+    "ai": 10,
+    "tools": 10
+  },
+  "snapshot_date": "2026-11-08"
+}
